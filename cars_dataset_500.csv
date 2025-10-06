@@ -1,0 +1,501 @@
+Car_ID,Brand,Model_Name,Category,Engine_CC,Max_Power_bhp,Max_Torque_Nm,Top_Speed_kmph,Mileage_kmpl,Seats,Price_INR_Lakh,Country_Origin,Fuel_Type,Transmission,Launch_Year,ABS,Popular_in_India,Description
+C0001,Jaguar,X 700,Hatchback,1000,72.8,97.0,178,15.3,4,20.23,Germany,Petrol,Automatic,2019,No,No,Compact city-friendly hatchback
+C0002,MG,Neo 500,Convertible,2000,132.9,205.8,213,10.7,7,51.74,India,Petrol,Automatic,2013,Yes,Yes,Convertible for open-air drive
+C0003,Mahindra,Z 700,Electric,0,256.7,448.8,199,,4,54.0,India,Electric,CVT,2007,Yes,Yes,Electric car with zero emissions
+C0004,Mercedes,S 550,Electric,0,357.3,314.0,178,,5,201.83,Germany,Electric,Manual,2016,Yes,No,Electric car with zero emissions
+C0005,MG,Turbo 300,SUV,2200,256.9,398.1,241,12.8,4,56.45,India,Petrol,Manual,2006,No,Yes,Spacious SUV for all terrains
+C0006,Tata,Turbo 550,Sedan,1600,100.6,140.0,196,19.3,4,27.03,India,Hybrid,Manual,2022,No,Yes,Comfortable family sedan
+C0007,Ford,Neo 500,Sedan,1500,115.5,123.6,143,18.9,7,36.25,Japan,Hybrid,Automatic,2007,No,Yes,Comfortable family sedan
+C0008,BMW,X 650,Electric,0,83.7,416.2,188,,2,91.39,Sweden,Electric,Automatic,2014,No,Yes,Electric car with zero emissions
+C0009,BMW,GT 500,Electric,0,242.5,231.9,200,,7,104.8,Sweden,Electric,CVT,2011,Yes,Yes,Electric car with zero emissions
+C0010,Porsche,S 700,Electric,0,236.4,233.6,166,,7,67.46,Sweden,Electric,Manual,2007,Yes,No,Electric car with zero emissions
+C0011,Jaguar,E 450,MUV,3000,342.0,249.7,207,14.1,4,131.2,Germany,Petrol,CVT,2014,No,No,Multi-purpose vehicle for family
+C0012,Porsche,Z 300,SUV,1500,106.9,143.5,189,16.7,2,24.97,Sweden,Petrol,Manual,2006,No,Yes,Spacious SUV for all terrains
+C0013,Volkswagen,X 600,Sedan,2000,154.6,174.6,170,16.5,6,31.79,USA,Petrol,Automatic,2018,No,No,Comfortable family sedan
+C0014,Mahindra,X 600,Hatchback,1000,77.5,95.7,168,16.4,2,10.23,India,Diesel,Manual,2019,Yes,Yes,Compact city-friendly hatchback
+C0015,Jaguar,Neo 200,MUV,2000,130.0,189.1,167,16.9,5,27.98,Germany,Hybrid,Automatic,2019,No,No,Multi-purpose vehicle for family
+C0016,Honda (India),GT 150,Sedan,2000,164.1,163.7,160,10.5,4,35.05,India,Hybrid,CVT,2006,Yes,Yes,Comfortable family sedan
+C0017,Tata,Alpha 250,Convertible,1400,137.1,142.8,274,16.8,7,112.72,India,Petrol,CVT,2023,No,Yes,Convertible for open-air drive
+C0018,Audi,GT 350,Sedan,1600,112.9,157.2,199,12.6,2,53.74,Germany,Petrol,Manual,2022,Yes,No,Comfortable family sedan
+C0019,Tata,S 200,Electric,0,130.5,450.1,158,,7,86.0,India,Electric,CVT,2005,No,Yes,Electric car with zero emissions
+C0020,BMW,Turbo 300,Hatchback,1500,97.8,131.3,153,17.7,6,25.61,Sweden,Petrol,CVT,2013,Yes,Yes,Compact city-friendly hatchback
+C0021,Hyundai,E 550,Hatchback,1300,98.1,137.7,185,15.4,4,8.76,India,Diesel,CVT,2022,Yes,Yes,Compact city-friendly hatchback
+C0022,Jaguar,GT 250,Hatchback,1300,108.2,157.3,195,12.3,5,14.95,Germany,Petrol,Manual,2022,No,No,Compact city-friendly hatchback
+C0023,MG,S 400,Electric,0,362.1,207.4,162,,4,60.0,India,Electric,CVT,2013,Yes,Yes,Electric car with zero emissions
+C0024,Hyundai,E 300,Electric,0,341.3,338.1,159,,2,37.0,India,Electric,Manual,2011,No,Yes,Electric car with zero emissions
+C0025,Tata,Alpha 100,Electric,0,285.3,319.9,188,,2,50.0,India,Electric,Manual,2013,Yes,Yes,Electric car with zero emissions
+C0026,Mahindra,E 400,SUV,2000,146.2,219.1,174,13.1,6,44.08,India,Petrol,CVT,2005,Yes,Yes,Spacious SUV for all terrains
+C0027,Tata,Z 400,Electric,3717,462.0,444.0,196,9.0,5,112.58,India,Diesel,Automatic,2022,Yes,Yes,Electric car with zero emissions
+C0028,Ford,Neo 700,Convertible,3000,260.9,370.1,238,10.0,6,207.57,Japan,Hybrid,Automatic,2019,No,No,Convertible for open-air drive
+C0029,MG,Neo 550,Convertible,3000,214.0,391.4,230,12.7,2,83.36,India,Petrol,Manual,2006,Yes,Yes,Convertible for open-air drive
+C0030,Tata,S 700,SUV,0,264.2,415.5,169,,4,75.0,India,Electric,Automatic,2009,Yes,Yes,Spacious SUV for all terrains
+C0031,Nissan,E 700,Sedan,0,302.7,339.4,191,,6,35.77,USA,Electric,Manual,2009,No,No,Comfortable family sedan
+C0032,Volvo,Alpha 450,Coupe,3000,324.6,318.6,220,13.2,5,171.1,USA,Diesel,CVT,2021,No,No,Sporty coupe with style
+C0033,Tata,Turbo 350,MUV,2500,248.0,317.2,157,9.1,4,57.88,India,Petrol,CVT,2007,No,Yes,Multi-purpose vehicle for family
+C0034,Jaguar,Alpha 400,SUV,2200,258.4,358.6,249,8.1,6,127.06,Germany,Petrol,Automatic,2018,Yes,No,Spacious SUV for all terrains
+C0035,Volkswagen,GT 450,Hatchback,1400,126.2,153.6,198,13.0,7,29.59,USA,Petrol,CVT,2005,Yes,No,Compact city-friendly hatchback
+C0036,MG,E 250,Hatchback,1200,83.6,100.1,196,18.8,6,12.82,India,Petrol,Manual,2005,Yes,Yes,Compact city-friendly hatchback
+C0037,Tata,Neo 650,MUV,1500,137.5,128.0,142,17.0,2,34.51,India,Diesel,CVT,2023,Yes,Yes,Multi-purpose vehicle for family
+C0038,BMW,Z 150,MUV,1500,128.9,126.6,179,12.9,6,48.32,Sweden,Petrol,Automatic,2011,Yes,No,Multi-purpose vehicle for family
+C0039,Mercedes,Turbo 450,Electric,0,118.7,495.2,125,,5,95.98,Germany,Electric,CVT,2007,No,Yes,Electric car with zero emissions
+C0040,Mahindra,Alpha 350,SUV,2200,306.1,298.4,226,14.8,6,61.24,India,Petrol,CVT,2019,No,Yes,Spacious SUV for all terrains
+C0041,Toyota (India),E 700,MUV,3000,236.6,303.6,218,12.7,4,42.69,India,Petrol,Automatic,2020,Yes,Yes,Multi-purpose vehicle for family
+C0042,BMW,Z 650,Sedan,0,304.4,282.9,121,,4,58.25,Sweden,Electric,Manual,2018,No,No,Comfortable family sedan
+C0043,Volkswagen,Neo 300,Coupe,1400,94.7,128.9,288,13.9,5,216.75,USA,Petrol,CVT,2018,No,Yes,Sporty coupe with style
+C0044,Mercedes,Z 300,Sedan,1500,105.8,149.7,200,18.1,7,29.65,Germany,Petrol,Automatic,2021,No,No,Comfortable family sedan
+C0045,Toyota (India),Neo 450,Sedan,2000,127.6,162.7,143,14.4,2,26.21,India,Petrol,Automatic,2005,No,Yes,Comfortable family sedan
+C0046,Volvo,Z 150,Sedan,1600,137.1,139.1,192,12.5,4,38.94,USA,Hybrid,Manual,2009,No,Yes,Comfortable family sedan
+C0047,Jaguar,Z 600,MUV,2000,166.5,182.8,196,12.4,2,138.16,Germany,Diesel,CVT,2024,Yes,No,Multi-purpose vehicle for family
+C0048,Honda (India),S 600,Sedan,1500,98.7,123.0,140,15.3,5,29.5,India,Petrol,Manual,2014,No,Yes,Comfortable family sedan
+C0049,Toyota (India),Alpha 200,Electric,0,280.0,398.4,145,,7,62.0,India,Electric,Manual,2012,Yes,Yes,Electric car with zero emissions
+C0050,Tata,Neo 150,Hatchback,1500,127.4,142.8,158,15.5,6,19.26,India,Diesel,CVT,2013,No,Yes,Compact city-friendly hatchback
+C0051,Hyundai,X 700,Electric,0,273.2,207.8,149,,7,94.0,India,Electric,CVT,2005,No,Yes,Electric car with zero emissions
+C0052,MG,GT 350,SUV,2000,130.9,195.1,241,16.5,5,34.52,India,Diesel,Automatic,2015,Yes,Yes,Spacious SUV for all terrains
+C0053,Nissan,Z 500,Convertible,4000,453.4,410.0,258,6.5,7,135.31,USA,Petrol,Automatic,2005,No,No,Convertible for open-air drive
+C0054,Toyota,Alpha 500,Coupe,3000,314.0,256.6,270,8.9,2,127.27,Sweden,Petrol,Manual,2025,Yes,No,Sporty coupe with style
+C0055,Maruti,Z 450,SUV,1500,113.1,124.7,179,16.0,6,58.11,India,Petrol,Automatic,2020,No,Yes,Spacious SUV for all terrains
+C0056,Jaguar,Neo 557,Hatchback,1500,115.4,155.2,195,12.6,2,25.06,Germany,Petrol,Automatic,2014,No,No,Compact city-friendly hatchback
+C0057,Jaguar,Turbo 400,SUV,2500,256.6,387.9,184,14.9,2,89.49,Germany,Petrol,Automatic,2015,No,No,Spacious SUV for all terrains
+C0058,Kia,GT 150,SUV,2500,344.8,279.8,172,14.1,2,74.99,India,Petrol,Automatic,2009,No,Yes,Spacious SUV for all terrains
+C0059,Volkswagen,Alpha 250,MUV,3000,297.5,373.3,208,10.7,7,96.51,USA,Petrol,Automatic,2006,Yes,Yes,Multi-purpose vehicle for family
+C0060,Tata,Turbo 200,SUV,3000,305.6,238.1,181,12.9,5,22.1,India,Petrol,Manual,2016,No,Yes,Spacious SUV for all terrains
+C0061,Toyota (India),Alpha 450,SUV,1800,130.2,164.7,208,15.0,4,52.77,India,Diesel,CVT,2012,No,Yes,Spacious SUV for all terrains
+C0062,BMW,Neo 300,Convertible,0,228.9,286.3,189,,7,60.17,Sweden,Electric,Automatic,2014,No,No,Convertible for open-air drive
+C0063,Honda (India),Alpha 100,Electric,0,114.1,314.4,165,,5,81.0,India,Electric,Automatic,2005,No,Yes,Electric car with zero emissions
+C0064,Hyundai,Alpha 600,Electric,0,346.5,470.9,149,,4,85.0,India,Electric,Automatic,2025,Yes,Yes,Electric car with zero emissions
+C0065,Kia,Z 200,Coupe,1400,105.4,137.6,274,14.9,5,44.81,India,Hybrid,Automatic,2018,Yes,Yes,Sporty coupe with style
+C0066,Jaguar,S 200,Electric,0,240.6,281.8,141,,5,95.19,Germany,Electric,Automatic,2015,Yes,No,Electric car with zero emissions
+C0067,Toyota (India),S 450,Electric,0,393.6,490.2,191,,6,54.0,India,Electric,Manual,2005,No,Yes,Electric car with zero emissions
+C0068,Toyota,Neo 650,Convertible,4000,455.6,488.1,213,10.0,5,138.45,Sweden,Diesel,CVT,2024,Yes,No,Convertible for open-air drive
+C0069,Mercedes,GT 400,Coupe,1400,137.3,132.2,263,12.9,5,133.14,Germany,Petrol,Automatic,2022,No,No,Sporty coupe with style
+C0070,Mahindra,X 400,MUV,2500,204.9,286.7,196,11.1,5,52.11,India,Diesel,Manual,2022,No,Yes,Multi-purpose vehicle for family
+C0071,BMW,Z 550,Hatchback,1400,94.6,128.5,180,16.8,7,12.39,Sweden,Petrol,Manual,2011,Yes,No,Compact city-friendly hatchback
+C0072,Honda (India),X 200,MUV,2000,167.3,195.8,175,16.9,5,43.8,India,Petrol,CVT,2010,Yes,Yes,Multi-purpose vehicle for family
+C0073,Maruti,E 500,Sedan,2000,139.4,170.5,143,11.0,2,33.42,India,Diesel,CVT,2020,No,Yes,Comfortable family sedan
+C0074,Mahindra,Turbo 600,SUV,2500,206.5,361.0,244,11.7,2,87.87,India,Petrol,Manual,2020,No,Yes,Spacious SUV for all terrains
+C0075,Mahindra,Alpha 450,SUV,1500,135.0,132.9,178,12.5,7,57.49,India,Hybrid,CVT,2015,No,Yes,Spacious SUV for all terrains
+C0076,Porsche,S 350,Coupe,1400,132.6,146.0,298,16.4,5,101.26,Sweden,Petrol,Automatic,2019,No,No,Sporty coupe with style
+C0077,Nissan,E 600,Sedan,1500,124.3,139.0,145,18.7,4,28.98,USA,Petrol,Automatic,2022,Yes,No,Comfortable family sedan
+C0078,Mahindra,Z 200,SUV,0,381.2,326.9,126,,5,48.0,India,Electric,CVT,2016,Yes,Yes,Spacious SUV for all terrains
+C0079,Volkswagen,Alpha 100,Sedan,2000,142.1,205.8,176,11.8,7,67.54,USA,Petrol,CVT,2025,Yes,No,Comfortable family sedan
+C0080,MG,Turbo 400,Sedan,1600,107.6,127.3,149,16.5,2,24.09,India,Diesel,CVT,2007,Yes,Yes,Comfortable family sedan
+C0081,Volvo,Neo 550,Sedan,1600,128.8,142.7,145,19.1,2,26.95,USA,Petrol,CVT,2013,No,No,Comfortable family sedan
+C0082,Volvo,Alpha 250,SUV,2500,217.1,297.4,196,12.7,6,147.16,USA,Petrol,Manual,2024,Yes,Yes,Spacious SUV for all terrains
+C0083,Kia,Turbo 650,MUV,1500,90.4,149.9,162,13.0,7,60.44,India,Petrol,CVT,2016,Yes,Yes,Multi-purpose vehicle for family
+C0084,Hyundai,Neo 650,SUV,1500,133.1,143.0,233,15.2,2,71.47,India,Petrol,Automatic,2015,Yes,Yes,Spacious SUV for all terrains
+C0085,Toyota,S 500,Hatchback,0,157.9,376.7,187,,5,8.27,Sweden,Electric,Automatic,2012,No,No,Compact city-friendly hatchback
+C0086,Mahindra,S 200,SUV,2000,141.1,217.5,242,16.5,4,47.64,India,Petrol,Automatic,2010,Yes,Yes,Spacious SUV for all terrains
+C0087,Volkswagen,Alpha 700,SUV,2500,267.3,386.3,232,12.5,6,139.97,USA,Diesel,Manual,2007,No,No,Spacious SUV for all terrains
+C0088,BMW,X 450,SUV,1500,105.5,138.1,167,14.9,7,71.33,Sweden,Petrol,Manual,2024,No,No,Spacious SUV for all terrains
+C0089,Honda (India),X 250,Sedan,1500,137.9,138.0,191,19.2,7,32.79,India,Petrol,Manual,2025,Yes,Yes,Comfortable family sedan
+C0090,Volvo,S 500,Electric,0,275.1,309.2,156,,7,95.32,USA,Electric,Automatic,2006,No,Yes,Electric car with zero emissions
+C0091,Ford,Turbo 600,Sedan,2000,172.4,180.0,177,15.3,6,43.65,Japan,Diesel,CVT,2009,Yes,Yes,Comfortable family sedan
+C0092,Audi,Alpha 700,MUV,1500,122.3,136.9,186,12.1,4,51.55,Germany,Diesel,Automatic,2012,Yes,Yes,Multi-purpose vehicle for family
+C0093,Mahindra,Neo 100,SUV,3000,332.6,226.8,203,14.1,4,48.33,India,Diesel,Manual,2010,Yes,Yes,Spacious SUV for all terrains
+C0094,Nissan,Alpha 700,Sedan,1800,156.6,205.1,190,13.6,4,53.38,USA,Diesel,Automatic,2016,No,No,Comfortable family sedan
+C0095,Ford,GT 300,SUV,1800,169.0,208.1,177,17.0,2,52.14,Japan,Petrol,CVT,2021,Yes,Yes,Spacious SUV for all terrains
+C0096,Volvo,Z 400,Electric,0,220.0,483.9,148,,6,152.0,USA,Electric,Manual,2006,No,No,Electric car with zero emissions
+C0097,Tata,X 150,Sedan,1200,95.2,109.5,190,16.5,4,14.15,India,Petrol,Automatic,2020,No,Yes,Comfortable family sedan
+C0098,Maruti,S 100,Sedan,0,255.6,418.2,187,,5,21.0,India,Electric,Manual,2012,No,Yes,Comfortable family sedan
+C0099,Toyota (India),Turbo 100,SUV,2200,209.4,370.6,223,12.2,4,29.52,India,Diesel,CVT,2009,No,Yes,Spacious SUV for all terrains
+C0100,Toyota,Alpha 650,Sedan,1200,85.7,100.8,173,20.4,2,51.17,Sweden,Petrol,Automatic,2025,No,No,Comfortable family sedan
+C0101,Maruti,Neo 650,Sedan,1500,126.6,145.1,189,16.7,7,22.6,India,Petrol,Automatic,2015,Yes,Yes,Comfortable family sedan
+C0102,Volkswagen,Turbo 500,Coupe,0,100.2,432.9,178,,4,43.81,USA,Electric,Manual,2006,No,No,Sporty coupe with style
+C0103,Volkswagen,GT 808,Sedan,1500,104.3,154.5,143,18.9,6,39.28,USA,Diesel,Automatic,2019,No,Yes,Comfortable family sedan
+C0104,Volkswagen,Turbo 200,Sedan,1600,130.1,149.1,145,15.4,5,31.54,USA,Diesel,Manual,2014,No,No,Comfortable family sedan
+C0105,Volvo,Neo 100,Sedan,1600,120.7,137.4,180,19.8,7,22.21,USA,Petrol,Automatic,2010,Yes,Yes,Comfortable family sedan
+C0106,Kia,GT 500,Hatchback,1300,108.1,158.0,142,16.8,5,17.28,India,Diesel,Automatic,2019,Yes,Yes,Compact city-friendly hatchback
+C0107,Toyota,Neo 250,Sedan,1500,138.0,121.0,151,16.0,6,51.99,Sweden,Diesel,Automatic,2011,No,No,Comfortable family sedan
+C0108,Mahindra,Alpha 200,Hatchback,1200,97.0,103.4,145,23.1,2,15.81,India,Petrol,CVT,2022,No,Yes,Compact city-friendly hatchback
+C0109,MG,S 150,MUV,1500,139.3,151.7,170,18.3,5,23.33,India,Diesel,CVT,2019,Yes,Yes,Multi-purpose vehicle for family
+C0110,Mercedes,GT 700,Sedan,1800,151.5,206.1,192,14.6,6,42.39,Germany,Diesel,Automatic,2021,No,Yes,Comfortable family sedan
+C0111,Kia,S 300,SUV,1500,131.6,140.7,198,13.3,5,67.22,India,Hybrid,Manual,2021,No,Yes,Spacious SUV for all terrains
+C0112,Honda (India),X 100,Coupe,1600,121.3,144.6,211,16.0,4,56.78,India,Diesel,CVT,2010,No,Yes,Sporty coupe with style
+C0113,Tata,Neo 250,Hatchback,1500,103.2,128.4,176,15.3,7,13.36,India,Diesel,CVT,2014,No,Yes,Compact city-friendly hatchback
+C0114,Ford,S 350,Sedan,1200,74.7,102.5,169,17.0,5,27.75,Japan,Petrol,CVT,2017,Yes,No,Comfortable family sedan
+C0115,Toyota (India),Z 700,SUV,1800,128.5,163.0,209,16.9,5,72.18,India,Petrol,Manual,2023,No,Yes,Spacious SUV for all terrains
+C0116,MG,X 100,SUV,2200,331.9,309.5,171,14.6,4,88.45,India,Diesel,Manual,2023,No,Yes,Spacious SUV for all terrains
+C0117,Mercedes,E 100,SUV,0,289.4,341.2,188,,4,29.72,Germany,Electric,Automatic,2013,No,No,Spacious SUV for all terrains
+C0118,Ford,Turbo 350,Hatchback,1300,117.7,122.9,172,15.6,7,26.31,Japan,Diesel,CVT,2008,Yes,No,Compact city-friendly hatchback
+C0119,Audi,GT 727,SUV,1800,131.9,190.5,224,10.3,7,29.07,Germany,Petrol,Automatic,2019,Yes,No,Spacious SUV for all terrains
+C0120,Audi,Alpha 842,Hatchback,1300,119.7,140.3,172,16.3,5,26.42,Germany,Hybrid,Manual,2015,Yes,No,Compact city-friendly hatchback
+C0121,Maruti,GT 600,SUV,3000,317.4,359.7,233,9.6,7,38.0,India,Petrol,Manual,2025,No,Yes,Spacious SUV for all terrains
+C0122,Toyota (India),GT 500,Hatchback,1000,75.7,103.2,166,16.5,7,13.63,India,Hybrid,CVT,2020,Yes,Yes,Compact city-friendly hatchback
+C0123,Honda (India),Z 250,SUV,2200,278.8,276.5,182,11.2,5,90.42,India,Hybrid,Automatic,2024,No,Yes,Spacious SUV for all terrains
+C0124,BMW,Turbo 400,SUV,2000,166.3,202.3,248,15.6,5,105.1,Sweden,Petrol,CVT,2014,Yes,No,Spacious SUV for all terrains
+C0125,Toyota,Alpha 812,Electric,0,172.9,286.3,130,,5,124.47,Sweden,Electric,CVT,2020,Yes,Yes,Electric car with zero emissions
+C0126,BMW,GT 400,Hatchback,1500,102.0,122.0,197,16.2,6,18.46,Sweden,Diesel,Automatic,2008,Yes,Yes,Compact city-friendly hatchback
+C0127,Volkswagen,X 400,SUV,2000,139.3,198.8,171,15.2,4,91.39,USA,Petrol,Manual,2018,Yes,No,Spacious SUV for all terrains
+C0128,Volkswagen,Neo 297,Hatchback,1300,133.8,120.4,176,16.8,7,23.38,USA,Diesel,CVT,2020,Yes,No,Compact city-friendly hatchback
+C0129,Mahindra,S 400,Sedan,1600,125.9,120.6,161,18.3,6,19.45,India,Diesel,CVT,2018,No,Yes,Comfortable family sedan
+C0130,Mahindra,Alpha 600,Hatchback,1300,136.8,120.3,164,13.9,7,19.52,India,Petrol,Automatic,2023,Yes,Yes,Compact city-friendly hatchback
+C0131,Toyota,Z 250,Convertible,1400,113.3,126.4,287,16.0,2,348.8,Sweden,Petrol,CVT,2025,No,Yes,Convertible for open-air drive
+C0132,Kia,E 150,SUV,2500,256.0,346.3,220,13.3,7,59.24,India,Petrol,CVT,2007,No,Yes,Spacious SUV for all terrains
+C0133,Mahindra,S 500,Hatchback,1500,100.1,141.5,150,14.6,4,17.3,India,Diesel,CVT,2023,No,Yes,Compact city-friendly hatchback
+C0134,Volvo,E 650,MUV,3000,268.5,230.4,199,12.7,4,87.33,USA,Petrol,Manual,2023,Yes,Yes,Multi-purpose vehicle for family
+C0135,Tata,Neo 400,SUV,1500,139.3,138.9,196,15.3,6,41.19,India,Petrol,CVT,2016,No,Yes,Spacious SUV for all terrains
+C0136,Ford,Turbo 500,Hatchback,1500,96.6,154.4,147,13.4,2,19.38,Japan,Hybrid,Manual,2005,No,No,Compact city-friendly hatchback
+C0137,Ford,X 450,MUV,2500,223.3,253.9,154,8.2,4,116.48,Japan,Petrol,Manual,2011,Yes,Yes,Multi-purpose vehicle for family
+C0138,Hyundai,E 250,Sedan,1800,134.1,173.0,195,16.2,4,22.86,India,Petrol,Automatic,2023,No,Yes,Comfortable family sedan
+C0139,Mercedes,E 650,Electric,2693,245.1,231.0,271,14.2,2,73.88,Germany,Diesel,Automatic,2016,No,No,Electric car with zero emissions
+C0140,Nissan,Alpha 250,SUV,1800,165.3,188.4,188,12.4,6,83.61,USA,Petrol,CVT,2018,Yes,Yes,Spacious SUV for all terrains
+C0141,Audi,E 300,Coupe,2000,125.5,203.5,224,10.4,4,162.8,Germany,Hybrid,Manual,2023,Yes,No,Sporty coupe with style
+C0142,Maruti,Turbo 450,Sedan,1200,92.4,112.6,198,17.4,7,20.21,India,Petrol,Manual,2015,No,Yes,Comfortable family sedan
+C0143,Jaguar,Z 650,Coupe,2000,150.8,189.8,212,16.4,5,223.04,Germany,Petrol,Manual,2015,No,Yes,Sporty coupe with style
+C0144,Kia,Alpha 700,Hatchback,1500,119.0,136.7,149,13.6,6,13.56,India,Diesel,Manual,2022,No,Yes,Compact city-friendly hatchback
+C0145,Volkswagen,S 600,Electric,0,237.0,250.5,165,,6,37.58,USA,Electric,CVT,2010,Yes,No,Electric car with zero emissions
+C0146,Hyundai,X 100,MUV,2000,124.1,169.1,167,14.0,7,42.97,India,Petrol,CVT,2020,No,Yes,Multi-purpose vehicle for family
+C0147,Jaguar,Alpha 350,SUV,2500,308.3,316.4,196,8.1,2,172.51,Germany,Petrol,Manual,2021,Yes,Yes,Spacious SUV for all terrains
+C0148,BMW,Neo 100,MUV,3000,268.8,263.8,168,10.1,2,174.92,Sweden,Petrol,CVT,2007,No,Yes,Multi-purpose vehicle for family
+C0149,Maruti,X 150,MUV,3000,296.7,279.6,152,14.3,7,28.51,India,Petrol,CVT,2020,No,Yes,Multi-purpose vehicle for family
+C0150,BMW,Z 498,Electric,0,90.5,478.6,160,,4,24.46,Sweden,Electric,CVT,2017,Yes,Yes,Electric car with zero emissions
+C0151,Jaguar,E 100,Sedan,1500,129.5,147.6,145,16.0,5,30.57,Germany,Diesel,Manual,2024,No,No,Comfortable family sedan
+C0152,BMW,GT 828,MUV,2000,141.3,216.5,195,11.5,5,110.67,Sweden,Petrol,CVT,2012,Yes,Yes,Multi-purpose vehicle for family
+C0153,Kia,Turbo 150,MUV,1500,94.6,157.7,196,14.9,4,36.23,India,Petrol,Manual,2018,No,Yes,Multi-purpose vehicle for family
+C0154,Maruti,Turbo 200,Hatchback,1500,119.9,133.0,164,12.1,7,15.65,India,Diesel,Manual,2012,Yes,Yes,Compact city-friendly hatchback
+C0155,Kia,Neo 150,Sedan,1500,93.2,137.4,166,14.4,6,17.33,India,Petrol,Manual,2024,Yes,Yes,Comfortable family sedan
+C0156,Kia,E 550,Sedan,1600,132.1,135.2,195,14.6,7,26.71,India,Hybrid,CVT,2009,No,Yes,Comfortable family sedan
+C0157,Honda (India),Z 550,SUV,2200,345.3,272.5,248,12.4,6,53.14,India,Petrol,Automatic,2016,Yes,Yes,Spacious SUV for all terrains
+C0158,Jaguar,GT 650,Hatchback,1000,98.6,103.8,185,17.1,6,18.4,Germany,Diesel,Automatic,2009,No,Yes,Compact city-friendly hatchback
+C0159,Nissan,Z 600,MUV,3000,287.3,316.2,193,11.8,7,182.47,USA,Petrol,CVT,2025,Yes,Yes,Multi-purpose vehicle for family
+C0160,Toyota,Z 450,Hatchback,1500,139.2,147.1,165,19.7,2,25.33,Sweden,Diesel,Manual,2013,Yes,No,Compact city-friendly hatchback
+C0161,Toyota,Z 500,Sedan,2000,161.4,169.0,141,13.9,4,47.99,Sweden,Diesel,Manual,2016,No,Yes,Comfortable family sedan
+C0162,Volkswagen,E 500,Sedan,1800,139.1,178.0,191,15.7,4,31.24,USA,Petrol,CVT,2012,Yes,No,Comfortable family sedan
+C0163,Nissan,Z 250,Electric,0,209.6,255.3,175,,4,66.17,USA,Electric,CVT,2019,No,Yes,Electric car with zero emissions
+C0164,BMW,Neo 500,MUV,0,100.0,230.5,188,,6,41.91,Sweden,Electric,Manual,2008,No,No,Multi-purpose vehicle for family
+C0165,Audi,S 200,SUV,2500,217.1,283.4,218,12.3,4,136.11,Germany,Diesel,CVT,2015,Yes,Yes,Spacious SUV for all terrains
+C0166,Toyota,GT 350,Convertible,4000,399.1,415.0,254,7.1,7,243.02,Sweden,Diesel,Manual,2010,No,Yes,Convertible for open-air drive
+C0167,Volvo,Neo 450,Coupe,0,384.6,345.4,144,,6,181.25,USA,Electric,CVT,2018,No,No,Sporty coupe with style
+C0168,MG,S 300,Hatchback,1200,78.8,98.2,174,17.9,7,15.83,India,Petrol,Automatic,2021,Yes,Yes,Compact city-friendly hatchback
+C0169,Jaguar,S 450,MUV,1500,128.0,137.7,167,19.9,5,55.58,Germany,Petrol,Manual,2006,No,Yes,Multi-purpose vehicle for family
+C0170,Mahindra,Alpha 550,MUV,2500,329.2,329.8,194,9.2,2,43.7,India,Petrol,Manual,2023,No,Yes,Multi-purpose vehicle for family
+C0171,Jaguar,GT 249,Hatchback,1300,104.5,130.7,194,16.1,2,26.42,Germany,Hybrid,Automatic,2013,Yes,No,Compact city-friendly hatchback
+C0172,Audi,E 450,MUV,3000,273.4,323.9,174,12.4,6,88.79,Germany,Diesel,Manual,2021,No,No,Multi-purpose vehicle for family
+C0173,Volkswagen,Alpha 350,Sedan,1200,91.9,103.8,182,22.0,4,28.36,USA,Petrol,Automatic,2020,No,Yes,Comfortable family sedan
+C0174,Jaguar,Turbo 250,SUV,2200,318.2,380.9,166,8.3,6,99.35,Germany,Diesel,Manual,2019,Yes,No,Spacious SUV for all terrains
+C0175,Kia,GT 100,Electric,0,359.8,463.0,131,,5,91.0,India,Electric,Automatic,2007,No,Yes,Electric car with zero emissions
+C0176,Ford,S 400,Coupe,1600,111.5,123.6,212,12.0,6,114.78,Japan,Diesel,CVT,2005,Yes,No,Sporty coupe with style
+C0177,Kia,GT 450,SUV,1500,126.5,124.1,200,14.9,4,54.65,India,Petrol,Manual,2007,Yes,Yes,Spacious SUV for all terrains
+C0178,Toyota,E 700,MUV,2000,175.2,197.0,196,16.9,7,53.34,Sweden,Diesel,Manual,2017,No,No,Multi-purpose vehicle for family
+C0179,Kia,Turbo 300,Sedan,1500,117.7,144.0,178,14.3,5,21.17,India,Diesel,CVT,2011,Yes,Yes,Comfortable family sedan
+C0180,Hyundai,Turbo 550,MUV,2000,149.7,166.8,203,15.1,5,31.45,India,Diesel,Manual,2015,Yes,Yes,Multi-purpose vehicle for family
+C0181,Nissan,Turbo 400,Sedan,1800,177.3,206.2,141,14.7,6,15.91,USA,Diesel,Manual,2021,No,No,Comfortable family sedan
+C0182,Ford,Turbo 650,Hatchback,1500,97.6,123.3,145,16.1,6,19.65,Japan,Diesel,Automatic,2023,Yes,Yes,Compact city-friendly hatchback
+C0183,Toyota (India),X 200,Hatchback,1400,95.8,144.5,143,14.5,2,20.17,India,Petrol,Manual,2005,Yes,Yes,Compact city-friendly hatchback
+C0184,Volkswagen,Alpha 500,Electric,0,330.6,416.2,141,,2,70.27,USA,Electric,Automatic,2005,No,No,Electric car with zero emissions
+C0185,Tata,Z 650,Sedan,1200,84.9,105.3,143,20.0,2,18.93,India,Hybrid,Automatic,2023,Yes,Yes,Comfortable family sedan
+C0186,Porsche,Z 400,Hatchback,0,83.9,213.8,166,,2,19.11,Sweden,Electric,Manual,2022,No,Yes,Compact city-friendly hatchback
+C0187,Audi,Neo 100,Sedan,1600,96.0,146.9,143,13.4,6,74.79,Germany,Petrol,Manual,2014,No,Yes,Comfortable family sedan
+C0188,Toyota,Turbo 100,Sedan,1600,127.0,129.7,163,16.7,7,70.56,Sweden,Diesel,CVT,2012,Yes,Yes,Comfortable family sedan
+C0189,Toyota (India),Z 400,SUV,3000,331.6,391.2,160,13.3,5,86.38,India,Diesel,CVT,2008,Yes,Yes,Spacious SUV for all terrains
+C0190,Volkswagen,Turbo 150,Electric,2146,214.0,385.8,253,10.9,2,112.93,USA,Petrol,CVT,2021,Yes,No,Electric car with zero emissions
+C0191,Hyundai,GT 700,SUV,1800,137.5,211.1,210,15.6,4,61.18,India,Hybrid,Automatic,2007,Yes,Yes,Spacious SUV for all terrains
+C0192,Mahindra,GT 700,Hatchback,1400,105.7,124.8,162,19.7,5,13.86,India,Petrol,Automatic,2008,Yes,Yes,Compact city-friendly hatchback
+C0193,Mercedes,Turbo 669,MUV,1500,100.8,154.3,158,12.7,5,81.43,Germany,Diesel,Manual,2013,Yes,Yes,Multi-purpose vehicle for family
+C0194,Jaguar,S 100,Sedan,1500,96.1,122.5,189,19.9,2,24.34,Germany,Petrol,CVT,2023,No,No,Comfortable family sedan
+C0195,Tata,Turbo 450,Hatchback,1200,72.8,115.4,191,18.3,4,16.45,India,Diesel,Manual,2023,No,Yes,Compact city-friendly hatchback
+C0196,Maruti,Neo 400,Sedan,1600,100.7,127.5,157,15.6,7,15.64,India,Petrol,CVT,2012,No,Yes,Comfortable family sedan
+C0197,Jaguar,E 400,SUV,2200,220.6,255.9,227,9.7,6,52.95,Germany,Petrol,Automatic,2022,No,Yes,Spacious SUV for all terrains
+C0198,BMW,Alpha 500,Hatchback,1200,70.9,114.3,157,15.6,4,24.49,Sweden,Petrol,Manual,2008,Yes,No,Compact city-friendly hatchback
+C0199,Hyundai,E 677,MUV,3000,253.2,371.1,162,9.2,5,65.63,India,Hybrid,CVT,2023,Yes,Yes,Multi-purpose vehicle for family
+C0200,Kia,E 306,SUV,2200,281.3,251.6,164,8.6,7,55.99,India,Petrol,Manual,2020,Yes,Yes,Spacious SUV for all terrains
+C0201,Kia,S 350,Sedan,1600,93.0,125.9,185,19.3,2,25.03,India,Petrol,Automatic,2016,No,Yes,Comfortable family sedan
+C0202,Mercedes,Alpha 200,Sedan,1800,167.5,217.6,181,12.5,4,68.75,Germany,Hybrid,Automatic,2023,Yes,Yes,Comfortable family sedan
+C0203,MG,Neo 200,MUV,3000,327.6,358.7,212,8.2,4,66.64,India,Hybrid,CVT,2025,Yes,Yes,Multi-purpose vehicle for family
+C0204,Audi,S 350,MUV,2500,225.2,379.4,151,13.8,2,136.43,Germany,Petrol,Automatic,2013,Yes,Yes,Multi-purpose vehicle for family
+C0205,BMW,S 700,MUV,1500,109.3,149.3,161,19.1,2,114.6,Sweden,Diesel,Automatic,2020,Yes,Yes,Multi-purpose vehicle for family
+C0206,Hyundai,X 400,Sedan,1200,72.2,95.1,164,16.6,5,17.65,India,Petrol,Manual,2024,No,Yes,Comfortable family sedan
+C0207,MG,Alpha 250,Coupe,1400,95.1,128.2,224,15.3,7,105.89,India,Petrol,CVT,2013,No,Yes,Sporty coupe with style
+C0208,Mahindra,Z 753,Hatchback,1400,97.7,134.4,167,12.7,4,19.8,India,Diesel,Automatic,2008,Yes,Yes,Compact city-friendly hatchback
+C0209,Mercedes,Turbo 350,Electric,0,117.0,435.5,180,,2,164.7,Germany,Electric,Automatic,2025,No,Yes,Electric car with zero emissions
+C0210,MG,X 400,SUV,2200,239.5,370.7,232,8.4,7,29.91,India,Petrol,Automatic,2018,Yes,Yes,Spacious SUV for all terrains
+C0211,Porsche,Neo 200,SUV,2200,285.9,262.4,198,8.6,7,49.1,Sweden,Diesel,CVT,2009,Yes,No,Spacious SUV for all terrains
+C0212,MG,E 650,Electric,0,120.4,327.0,175,,4,33.0,India,Electric,CVT,2024,No,Yes,Electric car with zero emissions
+C0213,Tata,S 400,Hatchback,1500,106.3,131.0,169,19.3,7,17.44,India,Diesel,CVT,2021,No,Yes,Compact city-friendly hatchback
+C0214,Kia,Neo 100,Hatchback,1000,97.7,106.9,146,22.9,5,18.04,India,Diesel,Automatic,2017,No,Yes,Compact city-friendly hatchback
+C0215,MG,X 350,Sedan,2000,160.8,184.1,165,17.1,6,33.05,India,Petrol,Manual,2013,No,Yes,Comfortable family sedan
+C0216,Mercedes,S 250,Sedan,0,354.6,405.5,149,,6,18.25,Germany,Electric,CVT,2015,No,No,Comfortable family sedan
+C0217,Volvo,X 200,Sedan,0,317.1,427.8,167,,2,16.39,USA,Electric,Manual,2014,No,Yes,Comfortable family sedan
+C0218,Honda (India),Neo 500,Electric,0,98.4,209.9,126,,4,54.0,India,Electric,CVT,2013,No,Yes,Electric car with zero emissions
+C0219,Ford,X 200,Coupe,1400,102.1,139.6,257,13.4,5,170.06,Japan,Petrol,Manual,2007,No,Yes,Sporty coupe with style
+C0220,Honda (India),GT 550,Electric,0,296.9,280.7,172,,2,73.0,India,Electric,Manual,2020,Yes,Yes,Electric car with zero emissions
+C0221,Maruti,Alpha 600,Sedan,1600,125.6,148.4,157,15.4,5,34.1,India,Diesel,Automatic,2011,No,Yes,Comfortable family sedan
+C0222,Porsche,E 300,MUV,1500,90.4,160.0,187,16.5,6,110.07,Sweden,Petrol,Manual,2007,No,No,Multi-purpose vehicle for family
+C0223,BMW,Alpha 300,Convertible,3000,228.3,313.1,230,14.3,5,331.37,Sweden,Hybrid,Automatic,2009,Yes,No,Convertible for open-air drive
+C0224,Nissan,GT 300,SUV,2500,306.2,323.0,184,10.4,5,100.2,USA,Diesel,Automatic,2021,No,No,Spacious SUV for all terrains
+C0225,Mahindra,Turbo 700,SUV,3000,321.3,357.3,183,14.6,5,75.71,India,Diesel,Manual,2012,No,Yes,Spacious SUV for all terrains
+C0226,Audi,GT 200,Sedan,1800,171.1,188.2,195,15.1,6,24.01,Germany,Diesel,Manual,2021,No,No,Comfortable family sedan
+C0227,Honda (India),X 450,Sedan,1800,128.6,211.7,151,16.2,5,31.39,India,Hybrid,Manual,2025,Yes,Yes,Comfortable family sedan
+C0228,BMW,Z 482,Sedan,2000,165.9,189.4,188,16.2,6,37.66,Sweden,Diesel,Automatic,2020,No,Yes,Comfortable family sedan
+C0229,Maruti,Alpha 200,Electric,0,249.9,205.4,120,,4,88.0,India,Electric,CVT,2012,No,Yes,Electric car with zero emissions
+C0230,Mahindra,Neo 350,Sedan,1500,93.3,121.8,200,14.3,6,34.16,India,Diesel,Automatic,2009,No,Yes,Comfortable family sedan
+C0231,Honda (India),Turbo 600,Hatchback,1400,91.0,129.0,148,13.7,2,14.4,India,Hybrid,Manual,2016,Yes,Yes,Compact city-friendly hatchback
+C0232,BMW,X 300,MUV,1500,123.1,146.1,142,12.4,5,44.6,Sweden,Diesel,CVT,2020,Yes,Yes,Multi-purpose vehicle for family
+C0233,Nissan,Z 700,Convertible,3000,293.4,346.1,253,13.8,2,98.92,USA,Diesel,Automatic,2008,No,Yes,Convertible for open-air drive
+C0234,BMW,Neo 200,MUV,2500,305.5,273.2,145,11.8,2,72.39,Sweden,Hybrid,Manual,2005,Yes,No,Multi-purpose vehicle for family
+C0235,Tata,Alpha 350,MUV,1500,135.2,145.8,198,19.9,2,39.17,India,Petrol,Manual,2010,Yes,Yes,Multi-purpose vehicle for family
+C0236,Audi,Turbo 400,SUV,1500,90.5,125.5,242,13.4,2,148.54,Germany,Petrol,Automatic,2016,No,Yes,Spacious SUV for all terrains
+C0237,Volvo,Neo 200,Sedan,1800,168.0,198.9,191,11.3,2,29.34,USA,Petrol,Manual,2018,No,No,Comfortable family sedan
+C0238,Ford,E 500,MUV,2000,149.0,189.3,192,13.5,7,36.89,Japan,Diesel,CVT,2023,Yes,No,Multi-purpose vehicle for family
+C0239,Porsche,GT 500,Convertible,4000,415.4,349.7,244,10.0,7,218.4,Sweden,Diesel,CVT,2006,Yes,No,Convertible for open-air drive
+C0240,Volkswagen,Z 150,Electric,0,104.0,347.5,150,,7,122.91,USA,Electric,Manual,2012,No,No,Electric car with zero emissions
+C0241,Volvo,Alpha 500,SUV,1500,132.8,137.9,175,19.8,7,25.36,USA,Diesel,CVT,2005,Yes,No,Spacious SUV for all terrains
+C0242,Jaguar,Z 100,Sedan,1600,108.2,122.2,154,18.8,5,45.05,Germany,Diesel,Automatic,2019,Yes,Yes,Comfortable family sedan
+C0243,Audi,Z 150,Sedan,1600,117.4,135.0,146,12.4,6,36.98,Germany,Diesel,CVT,2008,No,No,Comfortable family sedan
+C0244,Ford,GT 450,Sedan,0,141.0,301.4,173,,7,21.58,Japan,Electric,CVT,2008,No,No,Comfortable family sedan
+C0245,Maruti,E 493,SUV,2200,325.8,306.9,225,13.5,4,50.58,India,Petrol,Manual,2008,No,Yes,Spacious SUV for all terrains
+C0246,Nissan,Z 314,Electric,2120,259.7,281.7,195,11.2,7,46.8,USA,Diesel,CVT,2014,No,No,Electric car with zero emissions
+C0247,Mercedes,Alpha 400,Convertible,2000,178.9,199.0,222,14.0,7,250.38,Germany,Hybrid,Automatic,2020,No,No,Convertible for open-air drive
+C0248,Maruti,Alpha 250,SUV,1800,123.2,163.4,194,16.0,5,49.76,India,Petrol,CVT,2009,Yes,Yes,Spacious SUV for all terrains
+C0249,Jaguar,X 400,Hatchback,0,112.8,460.4,191,,6,12.84,Germany,Electric,CVT,2012,No,No,Compact city-friendly hatchback
+C0250,Ford,Z 700,SUV,3000,246.9,319.4,161,13.2,4,97.59,Japan,Diesel,Automatic,2025,No,No,Spacious SUV for all terrains
+C0251,Honda (India),Alpha 438,Sedan,1200,75.6,95.2,172,16.2,5,15.51,India,Petrol,CVT,2009,Yes,Yes,Comfortable family sedan
+C0252,Volvo,GT 500,MUV,2000,175.7,195.8,220,14.9,5,103.37,USA,Petrol,CVT,2007,No,No,Multi-purpose vehicle for family
+C0253,Tata,X 784,MUV,3000,213.8,259.8,167,12.6,7,50.66,India,Petrol,Manual,2021,No,Yes,Multi-purpose vehicle for family
+C0254,Toyota,E 500,SUV,2500,337.8,263.9,165,12.8,6,107.52,Sweden,Hybrid,Manual,2013,No,Yes,Spacious SUV for all terrains
+C0255,Porsche,Turbo 600,SUV,3000,228.9,312.5,172,9.2,4,168.77,Sweden,Petrol,Manual,2018,Yes,Yes,Spacious SUV for all terrains
+C0256,Tata,Turbo 400,MUV,3000,307.5,226.8,149,8.4,7,77.05,India,Petrol,Manual,2012,No,Yes,Multi-purpose vehicle for family
+C0257,Volvo,Alpha 550,Coupe,1400,109.5,124.7,200,17.1,2,134.76,USA,Petrol,Manual,2016,Yes,Yes,Sporty coupe with style
+C0258,Tata,Alpha 600,Sedan,1800,143.7,199.6,170,11.3,7,20.56,India,Hybrid,Automatic,2014,Yes,Yes,Comfortable family sedan
+C0259,Toyota,E 250,Electric,0,359.9,242.4,125,,7,15.21,Sweden,Electric,Automatic,2022,Yes,Yes,Electric car with zero emissions
+C0260,Nissan,S 300,Electric,0,125.6,255.2,198,,7,54.88,USA,Electric,Manual,2006,No,No,Electric car with zero emissions
+C0261,Tata,Neo 450,Sedan,2000,149.2,179.9,148,15.4,2,20.6,India,Petrol,CVT,2011,No,Yes,Comfortable family sedan
+C0262,Audi,E 573,Coupe,1600,118.3,134.6,240,19.7,6,57.26,Germany,Petrol,Manual,2013,No,Yes,Sporty coupe with style
+C0263,Volvo,X 550,Sedan,2000,126.5,198.7,145,16.7,2,35.32,USA,Petrol,CVT,2007,Yes,No,Comfortable family sedan
+C0264,Ford,S 472,MUV,1500,117.6,141.7,209,15.8,5,91.43,Japan,Petrol,CVT,2009,No,No,Multi-purpose vehicle for family
+C0265,Porsche,Neo 250,Hatchback,1500,124.2,150.3,148,15.6,6,21.15,Sweden,Petrol,Manual,2016,Yes,Yes,Compact city-friendly hatchback
+C0266,Tata,Alpha 550,Sedan,1500,115.9,151.7,164,15.8,5,35.58,India,Petrol,Manual,2008,No,Yes,Comfortable family sedan
+C0267,Jaguar,X 500,SUV,2200,254.8,337.6,169,11.6,5,156.03,Germany,Petrol,Automatic,2016,No,No,Spacious SUV for all terrains
+C0268,Kia,Neo 450,SUV,2500,296.5,258.1,183,9.1,5,45.22,India,Petrol,Automatic,2008,No,Yes,Spacious SUV for all terrains
+C0269,Honda (India),GT 300,SUV,2200,203.4,227.8,233,12.1,7,44.48,India,Diesel,Manual,2009,Yes,Yes,Spacious SUV for all terrains
+C0270,MG,Z 400,SUV,2500,295.6,378.1,244,13.7,6,31.33,India,Petrol,CVT,2020,Yes,Yes,Spacious SUV for all terrains
+C0271,Kia,Z 400,MUV,0,138.2,397.9,153,,5,25.0,India,Electric,CVT,2019,Yes,Yes,Multi-purpose vehicle for family
+C0272,Ford,GT 550,Hatchback,1500,133.0,140.2,166,18.6,7,19.82,Japan,Petrol,CVT,2006,Yes,Yes,Compact city-friendly hatchback
+C0273,Jaguar,Neo 700,MUV,0,328.0,394.8,186,,7,66.36,Germany,Electric,Manual,2018,Yes,No,Multi-purpose vehicle for family
+C0274,Ford,Turbo 300,Sedan,0,370.5,451.2,193,,6,18.65,Japan,Electric,Automatic,2012,Yes,Yes,Comfortable family sedan
+C0275,Honda (India),GT 400,Hatchback,1000,87.3,93.5,140,18.8,6,13.5,India,Diesel,Automatic,2016,Yes,Yes,Compact city-friendly hatchback
+C0276,BMW,Alpha 550,Sedan,2000,141.9,176.5,183,13.2,4,40.04,Sweden,Diesel,Automatic,2016,No,Yes,Comfortable family sedan
+C0277,Toyota,X 700,MUV,2000,171.3,199.6,169,13.6,6,148.91,Sweden,Petrol,CVT,2015,Yes,Yes,Multi-purpose vehicle for family
+C0278,Tata,X 700,MUV,3000,213.2,267.4,187,8.6,7,40.39,India,Petrol,Automatic,2025,No,Yes,Multi-purpose vehicle for family
+C0279,MG,X 344,Coupe,1600,132.5,157.2,266,14.3,7,42.23,India,Petrol,CVT,2012,Yes,Yes,Sporty coupe with style
+C0280,Maruti,S 150,Electric,0,168.3,319.8,170,,4,59.0,India,Electric,CVT,2021,Yes,Yes,Electric car with zero emissions
+C0281,Jaguar,Turbo 500,Sedan,0,372.8,304.4,155,,6,29.23,Germany,Electric,Manual,2017,Yes,Yes,Comfortable family sedan
+C0282,Mahindra,E 700,SUV,2000,176.8,208.2,192,17.0,7,59.11,India,Diesel,Automatic,2020,Yes,Yes,Spacious SUV for all terrains
+C0283,Volvo,X 650,Convertible,0,355.8,344.6,153,,4,62.16,USA,Electric,Manual,2015,No,No,Convertible for open-air drive
+C0284,BMW,Z 300,Sedan,1600,93.8,157.3,170,14.5,4,39.57,Sweden,Petrol,CVT,2020,Yes,Yes,Comfortable family sedan
+C0285,Honda (India),X 480,Sedan,0,347.6,306.8,133,,6,11.0,India,Electric,Manual,2024,Yes,Yes,Comfortable family sedan
+C0286,Audi,Turbo 600,SUV,2500,330.3,308.3,225,10.0,6,93.57,Germany,Hybrid,CVT,2020,Yes,No,Spacious SUV for all terrains
+C0287,MG,GT 500,SUV,2500,269.0,344.1,161,12.7,5,76.62,India,Petrol,Automatic,2024,No,Yes,Spacious SUV for all terrains
+C0288,BMW,Z 838,Sedan,2000,140.6,171.0,167,11.7,4,41.02,Sweden,Petrol,Automatic,2023,Yes,No,Comfortable family sedan
+C0289,BMW,Alpha 675,MUV,3000,229.4,364.0,159,11.3,7,38.2,Sweden,Diesel,CVT,2022,No,No,Multi-purpose vehicle for family
+C0290,Hyundai,E 100,Sedan,1200,76.5,97.6,193,21.3,5,31.55,India,Diesel,Automatic,2016,No,Yes,Comfortable family sedan
+C0291,Nissan,Neo 700,Hatchback,0,388.2,259.7,193,,5,20.09,USA,Electric,Manual,2016,No,No,Compact city-friendly hatchback
+C0292,Volvo,S 150,Electric,0,171.7,389.5,138,,6,57.91,USA,Electric,Automatic,2025,No,No,Electric car with zero emissions
+C0293,MG,Turbo 200,Sedan,1600,125.5,144.2,165,14.2,7,35.2,India,Petrol,Automatic,2021,No,Yes,Comfortable family sedan
+C0294,MG,S 450,Electric,0,155.1,275.5,130,,6,34.0,India,Electric,Manual,2008,Yes,Yes,Electric car with zero emissions
+C0295,Jaguar,GT 200,Hatchback,1500,128.2,123.3,156,16.9,4,23.71,Germany,Diesel,Automatic,2012,No,No,Compact city-friendly hatchback
+C0296,Porsche,Neo 600,MUV,2500,329.1,278.5,200,11.3,4,140.43,Sweden,Petrol,Automatic,2022,Yes,No,Multi-purpose vehicle for family
+C0297,Nissan,GT 350,SUV,2000,174.5,188.9,189,16.4,5,114.7,USA,Diesel,Manual,2005,Yes,No,Spacious SUV for all terrains
+C0298,Mercedes,Turbo 400,SUV,2200,342.0,305.9,161,13.4,5,113.28,Germany,Petrol,CVT,2011,No,No,Spacious SUV for all terrains
+C0299,Toyota (India),Turbo 250,Hatchback,1400,131.4,128.8,145,15.4,5,14.59,India,Diesel,CVT,2014,No,Yes,Compact city-friendly hatchback
+C0300,Tata,S 300,Hatchback,1400,120.9,130.9,179,15.9,7,10.02,India,Petrol,Manual,2005,Yes,Yes,Compact city-friendly hatchback
+C0301,BMW,GT 100,Hatchback,1000,77.0,94.5,171,17.2,6,20.69,Sweden,Petrol,Automatic,2006,No,Yes,Compact city-friendly hatchback
+C0302,BMW,X 250,MUV,3000,227.2,381.2,172,13.7,4,105.39,Sweden,Petrol,CVT,2017,No,Yes,Multi-purpose vehicle for family
+C0303,Volvo,Alpha 469,MUV,2000,148.4,200.9,179,17.5,7,54.2,USA,Petrol,CVT,2008,No,No,Multi-purpose vehicle for family
+C0304,Hyundai,Turbo 700,Electric,0,116.1,389.9,161,,5,9.0,India,Electric,Manual,2023,Yes,Yes,Electric car with zero emissions
+C0305,Toyota (India),X 350,Hatchback,1400,124.4,126.2,189,12.7,7,14.4,India,Petrol,CVT,2015,Yes,Yes,Compact city-friendly hatchback
+C0306,Kia,E 650,MUV,2000,149.3,179.0,211,16.3,4,72.56,India,Diesel,Automatic,2005,No,Yes,Multi-purpose vehicle for family
+C0307,Kia,S 500,Sedan,1800,153.5,192.6,171,11.5,6,24.43,India,Petrol,Automatic,2013,Yes,Yes,Comfortable family sedan
+C0308,Kia,Z 350,SUV,0,253.3,336.2,184,,4,60.0,India,Electric,CVT,2005,No,Yes,Spacious SUV for all terrains
+C0309,Tata,S 100,Convertible,4000,297.5,436.6,298,9.3,5,125.06,India,Diesel,Automatic,2008,Yes,Yes,Convertible for open-air drive
+C0310,Kia,X 350,Hatchback,1000,84.6,93.0,176,21.4,7,15.26,India,Petrol,CVT,2023,No,Yes,Compact city-friendly hatchback
+C0311,Toyota (India),Alpha 500,Coupe,1600,122.8,157.1,210,15.7,6,109.98,India,Petrol,CVT,2016,Yes,Yes,Sporty coupe with style
+C0312,Hyundai,Z 250,MUV,0,104.9,264.8,186,,4,21.0,India,Electric,Manual,2022,No,Yes,Multi-purpose vehicle for family
+C0313,Porsche,Turbo 500,Convertible,2000,153.5,193.5,295,10.8,6,226.49,Sweden,Diesel,CVT,2008,Yes,No,Convertible for open-air drive
+C0314,Audi,Z 400,Convertible,4000,483.4,480.5,270,11.9,6,183.27,Germany,Diesel,CVT,2015,Yes,No,Convertible for open-air drive
+C0315,Jaguar,Alpha 100,Electric,0,387.7,334.2,170,,7,16.93,Germany,Electric,Automatic,2005,Yes,No,Electric car with zero emissions
+C0316,Mercedes,E 200,Electric,0,180.8,431.5,155,,7,141.63,Germany,Electric,CVT,2009,Yes,Yes,Electric car with zero emissions
+C0317,Kia,S 650,Sedan,0,160.0,276.9,158,,6,10.0,India,Electric,CVT,2023,Yes,Yes,Comfortable family sedan
+C0318,Audi,Z 650,MUV,1500,119.8,132.0,213,15.1,6,87.66,Germany,Petrol,Automatic,2018,Yes,No,Multi-purpose vehicle for family
+C0319,Maruti,Neo 700,Coupe,1400,105.2,121.6,269,16.5,4,74.43,India,Diesel,Manual,2006,No,Yes,Sporty coupe with style
+C0320,Porsche,Neo 500,Hatchback,1400,97.4,133.4,170,16.6,7,15.08,Sweden,Petrol,Automatic,2018,Yes,No,Compact city-friendly hatchback
+C0321,Honda (India),S 523,SUV,1800,153.7,219.8,227,12.0,5,28.43,India,Diesel,Automatic,2023,Yes,Yes,Spacious SUV for all terrains
+C0322,Nissan,Z 801,Sedan,1600,119.7,121.0,159,13.4,7,53.17,USA,Petrol,Automatic,2009,No,Yes,Comfortable family sedan
+C0323,Toyota,X 350,Hatchback,1000,73.4,91.6,200,21.2,5,22.46,Sweden,Diesel,Manual,2008,No,No,Compact city-friendly hatchback
+C0324,Honda (India),GT 100,MUV,2500,282.3,332.1,158,12.9,7,62.37,India,Petrol,CVT,2006,No,Yes,Multi-purpose vehicle for family
+C0325,Mercedes,Turbo 250,Sedan,1600,92.7,146.2,140,12.5,2,47.34,Germany,Diesel,Automatic,2005,No,No,Comfortable family sedan
+C0326,Ford,Alpha 350,SUV,2000,149.1,195.8,171,11.5,2,199.44,Japan,Diesel,CVT,2006,Yes,No,Spacious SUV for all terrains
+C0327,Volkswagen,E 400,Sedan,1600,124.2,134.2,159,13.9,6,39.66,USA,Petrol,Automatic,2005,No,Yes,Comfortable family sedan
+C0328,Kia,GT 250,Hatchback,1500,133.6,147.5,166,13.9,7,14.12,India,Petrol,Automatic,2015,No,Yes,Compact city-friendly hatchback
+C0329,Kia,S 645,SUV,1800,171.8,178.5,250,17.2,7,38.79,India,Diesel,Manual,2010,No,Yes,Spacious SUV for all terrains
+C0330,Mahindra,GT 292,Hatchback,0,126.6,208.8,160,,5,8.0,India,Electric,Automatic,2019,No,Yes,Compact city-friendly hatchback
+C0331,Mahindra,GT 500,Hatchback,1500,120.8,144.2,179,13.8,5,11.77,India,Petrol,Manual,2007,No,Yes,Compact city-friendly hatchback
+C0332,Volkswagen,S 200,MUV,3000,273.7,244.8,164,9.6,6,95.34,USA,Petrol,Automatic,2012,Yes,No,Multi-purpose vehicle for family
+C0333,Volvo,X 500,Electric,0,184.0,337.3,151,,7,103.34,USA,Electric,Manual,2017,No,Yes,Electric car with zero emissions
+C0334,Mahindra,X 250,SUV,0,93.6,498.8,186,,2,80.0,India,Electric,Automatic,2022,No,Yes,Spacious SUV for all terrains
+C0335,Mercedes,Neo 150,SUV,0,327.6,285.8,141,,7,99.8,Germany,Electric,Manual,2009,No,No,Spacious SUV for all terrains
+C0336,Porsche,GT 650,Hatchback,1500,96.8,136.5,168,12.2,6,26.96,Sweden,Diesel,Manual,2007,No,Yes,Compact city-friendly hatchback
+C0337,Mahindra,X 700,Hatchback,1300,94.3,148.3,186,18.3,6,17.97,India,Diesel,Manual,2022,No,Yes,Compact city-friendly hatchback
+C0338,MG,Alpha 650,Electric,0,291.0,245.0,138,,2,30.0,India,Electric,CVT,2018,No,Yes,Electric car with zero emissions
+C0339,Volvo,Neo 519,Sedan,1500,138.0,120.1,188,14.0,7,48.51,USA,Petrol,Manual,2020,Yes,Yes,Comfortable family sedan
+C0340,Volvo,Alpha 350,Hatchback,1200,96.5,98.3,180,20.6,5,10.83,USA,Diesel,CVT,2006,Yes,No,Compact city-friendly hatchback
+C0341,Tata,X 886,Hatchback,1200,74.8,98.5,182,21.9,4,16.89,India,Petrol,CVT,2019,No,Yes,Compact city-friendly hatchback
+C0342,Mercedes,Z 650,Sedan,0,342.5,427.5,190,,2,15.1,Germany,Electric,Manual,2013,No,No,Comfortable family sedan
+C0343,Honda (India),GT 676,Coupe,1400,114.2,147.5,300,19.9,5,68.58,India,Petrol,Automatic,2021,No,Yes,Sporty coupe with style
+C0344,Volkswagen,E 350,SUV,2200,321.2,379.1,189,13.0,2,44.5,USA,Diesel,CVT,2011,No,No,Spacious SUV for all terrains
+C0345,Jaguar,X 200,MUV,2000,161.4,175.3,148,12.5,5,104.16,Germany,Petrol,Manual,2015,No,No,Multi-purpose vehicle for family
+C0346,Honda (India),X 500,Sedan,1800,175.0,207.8,181,11.1,5,24.63,India,Petrol,CVT,2019,No,Yes,Comfortable family sedan
+C0347,Mercedes,Turbo 200,SUV,2500,280.4,257.5,247,10.3,5,75.97,Germany,Diesel,Manual,2017,Yes,No,Spacious SUV for all terrains
+C0348,Mahindra,E 450,Electric,0,305.7,294.3,124,,2,42.0,India,Electric,Automatic,2020,Yes,Yes,Electric car with zero emissions
+C0349,Mercedes,Alpha 700,Sedan,1200,81.2,91.1,152,24.1,4,49.86,Germany,Petrol,CVT,2011,No,No,Comfortable family sedan
+C0350,Audi,X 600,Hatchback,0,343.1,481.4,136,,6,12.69,Germany,Electric,Automatic,2021,Yes,Yes,Compact city-friendly hatchback
+C0351,Tata,E 250,Sedan,0,113.0,429.9,159,,5,8.0,India,Electric,CVT,2025,Yes,Yes,Comfortable family sedan
+C0352,Honda (India),E 500,Sedan,1800,160.3,176.4,150,12.2,7,25.4,India,Diesel,CVT,2008,Yes,Yes,Comfortable family sedan
+C0353,Audi,S 400,Sedan,1600,118.7,126.9,159,16.9,6,37.27,Germany,Hybrid,Manual,2006,Yes,Yes,Comfortable family sedan
+C0354,Ford,S 700,Hatchback,1500,121.5,147.6,168,16.9,7,16.33,Japan,Diesel,CVT,2007,No,No,Compact city-friendly hatchback
+C0355,Volvo,S 450,Hatchback,1400,113.5,157.9,149,18.9,5,20.02,USA,Petrol,Manual,2015,No,No,Compact city-friendly hatchback
+C0356,Mahindra,Alpha 500,Sedan,1500,104.1,133.9,176,13.0,2,18.87,India,Petrol,CVT,2015,Yes,Yes,Comfortable family sedan
+C0357,Volvo,Z 200,SUV,2500,236.6,248.6,221,10.7,6,95.42,USA,Petrol,Automatic,2023,No,No,Spacious SUV for all terrains
+C0358,Tata,Turbo 606,MUV,3000,217.1,327.3,181,11.9,6,83.69,India,Diesel,Automatic,2007,Yes,Yes,Multi-purpose vehicle for family
+C0359,Hyundai,Turbo 691,Hatchback,0,363.9,471.0,120,,4,6.0,India,Electric,CVT,2019,No,Yes,Compact city-friendly hatchback
+C0360,Volvo,Alpha 100,Hatchback,1300,105.0,151.8,183,14.4,7,28.96,USA,Diesel,Manual,2005,No,No,Compact city-friendly hatchback
+C0361,Toyota,Z 600,Electric,3293,455.2,371.8,192,11.2,5,86.9,Sweden,Petrol,CVT,2017,No,Yes,Electric car with zero emissions
+C0362,MG,Turbo 186,SUV,2200,326.5,284.9,213,9.1,2,34.76,India,Petrol,Manual,2009,No,Yes,Spacious SUV for all terrains
+C0363,Kia,Z 534,Coupe,3000,334.0,345.2,254,12.4,6,101.23,India,Petrol,CVT,2017,No,Yes,Sporty coupe with style
+C0364,Maruti,E 150,SUV,0,155.8,350.5,172,,2,58.0,India,Electric,Manual,2023,No,Yes,Spacious SUV for all terrains
+C0365,Volkswagen,S 748,Electric,0,313.7,357.9,155,,7,122.19,USA,Electric,CVT,2007,Yes,No,Electric car with zero emissions
+C0366,Jaguar,X 650,MUV,1500,135.2,141.4,141,15.8,6,121.21,Germany,Petrol,Automatic,2016,No,Yes,Multi-purpose vehicle for family
+C0367,Mercedes,Alpha 300,MUV,1500,121.5,143.1,213,12.4,6,84.16,Germany,Diesel,Automatic,2007,Yes,No,Multi-purpose vehicle for family
+C0368,Kia,Z 450,Coupe,2000,120.9,166.7,222,17.3,5,125.42,India,Petrol,Automatic,2010,No,Yes,Sporty coupe with style
+C0369,MG,Z 600,MUV,0,189.7,225.3,138,,6,53.0,India,Electric,Manual,2018,No,Yes,Multi-purpose vehicle for family
+C0370,Volvo,Turbo 450,MUV,2500,208.1,267.6,154,8.4,7,83.99,USA,Petrol,CVT,2012,No,No,Multi-purpose vehicle for family
+C0371,BMW,Turbo 550,Hatchback,0,83.8,478.2,177,,2,16.4,Sweden,Electric,CVT,2008,No,No,Compact city-friendly hatchback
+C0372,BMW,X 600,Sedan,1200,77.7,107.5,169,22.7,7,39.97,Sweden,Petrol,Manual,2015,Yes,Yes,Comfortable family sedan
+C0373,Maruti,X 550,MUV,1500,116.3,147.4,184,13.8,2,39.02,India,Petrol,Manual,2024,Yes,Yes,Multi-purpose vehicle for family
+C0374,Honda (India),GT 401,Electric,0,306.6,236.0,197,,7,24.0,India,Electric,Automatic,2010,Yes,Yes,Electric car with zero emissions
+C0375,Volvo,E 100,Convertible,4000,480.7,355.3,254,10.2,2,268.8,USA,Petrol,Manual,2013,Yes,Yes,Convertible for open-air drive
+C0376,BMW,Turbo 250,Electric,0,221.0,347.5,145,,6,141.87,Sweden,Electric,CVT,2008,Yes,No,Electric car with zero emissions
+C0377,Mahindra,X 100,Electric,0,113.1,221.9,193,,2,40.0,India,Electric,Automatic,2020,Yes,Yes,Electric car with zero emissions
+C0378,Ford,Neo 150,Sedan,1800,154.5,190.9,200,16.2,7,55.1,Japan,Diesel,Manual,2012,Yes,Yes,Comfortable family sedan
+C0379,Jaguar,Alpha 600,Electric,0,298.2,320.2,200,,5,110.42,Germany,Electric,CVT,2007,No,No,Electric car with zero emissions
+C0380,Honda (India),Z 200,Hatchback,1400,123.0,132.0,164,19.2,2,20.52,India,Petrol,Automatic,2025,No,Yes,Compact city-friendly hatchback
+C0381,Hyundai,X 350,Hatchback,1500,101.9,135.6,190,16.3,2,16.0,India,Diesel,Automatic,2006,No,Yes,Compact city-friendly hatchback
+C0382,Hyundai,GT 450,SUV,3000,300.1,302.5,246,14.1,4,89.57,India,Petrol,CVT,2007,Yes,Yes,Spacious SUV for all terrains
+C0383,Maruti,S 216,SUV,1500,102.1,146.0,161,13.4,6,31.86,India,Hybrid,Manual,2024,Yes,Yes,Spacious SUV for all terrains
+C0384,Volkswagen,E 150,SUV,1500,130.2,137.0,246,15.2,5,76.5,USA,Diesel,Manual,2011,Yes,No,Spacious SUV for all terrains
+C0385,Mahindra,X 450,Sedan,1500,124.8,142.1,168,13.9,7,13.6,India,Diesel,CVT,2017,Yes,Yes,Comfortable family sedan
+C0386,Tata,Neo 344,Hatchback,1000,91.2,107.8,158,19.2,4,15.54,India,Petrol,Manual,2025,No,Yes,Compact city-friendly hatchback
+C0387,MG,S 500,Coupe,1600,125.9,144.5,211,17.0,7,70.65,India,Petrol,Manual,2012,Yes,Yes,Sporty coupe with style
+C0388,Mahindra,Z 150,Coupe,0,395.8,352.3,179,,4,105.0,India,Electric,CVT,2013,Yes,Yes,Sporty coupe with style
+C0389,Kia,X 150,Convertible,4000,374.4,332.0,205,6.3,5,93.12,India,Hybrid,Automatic,2015,No,Yes,Convertible for open-air drive
+C0390,Hyundai,Turbo 250,Electric,0,331.4,345.5,134,,6,17.0,India,Electric,Manual,2023,No,Yes,Electric car with zero emissions
+C0391,Audi,Neo 200,Sedan,1500,94.9,149.5,195,13.6,6,28.07,Germany,Petrol,Manual,2009,Yes,No,Comfortable family sedan
+C0392,Ford,E 250,Sedan,1500,121.6,159.0,152,14.7,2,22.34,Japan,Petrol,Manual,2019,No,No,Comfortable family sedan
+C0393,Mercedes,Turbo 650,Coupe,1600,118.9,142.1,229,12.7,6,178.37,Germany,Diesel,CVT,2019,No,Yes,Sporty coupe with style
+C0394,Toyota (India),Turbo 500,Sedan,1500,134.6,143.7,149,19.3,2,16.01,India,Petrol,Manual,2020,Yes,Yes,Comfortable family sedan
+C0395,Ford,Alpha 200,SUV,1500,112.6,129.6,231,18.0,4,160.11,Japan,Diesel,Automatic,2025,Yes,Yes,Spacious SUV for all terrains
+C0396,Volvo,S 400,Electric,0,87.8,336.5,137,,6,163.42,USA,Electric,Automatic,2025,Yes,No,Electric car with zero emissions
+C0397,Audi,E 733,SUV,2000,161.9,196.8,233,16.4,7,52.68,Germany,Petrol,Manual,2016,Yes,Yes,Spacious SUV for all terrains
+C0398,Hyundai,Z 350,Sedan,2000,162.3,193.6,189,11.6,6,25.82,India,Petrol,Manual,2023,Yes,Yes,Comfortable family sedan
+C0399,Toyota,Alpha 450,Electric,0,215.3,216.3,167,,7,90.14,Sweden,Electric,CVT,2008,No,No,Electric car with zero emissions
+C0400,Toyota,Neo 200,MUV,1500,99.4,155.4,151,12.6,4,53.58,Sweden,Hybrid,Manual,2013,Yes,No,Multi-purpose vehicle for family
+C0401,Honda (India),S 100,SUV,2000,145.0,200.9,176,13.8,2,76.1,India,Diesel,CVT,2014,Yes,Yes,Spacious SUV for all terrains
+C0402,Toyota (India),GT 700,MUV,2500,261.8,281.7,181,11.4,6,75.94,India,Diesel,CVT,2019,No,Yes,Multi-purpose vehicle for family
+C0403,Mercedes,GT 650,Hatchback,1400,108.6,131.5,194,12.4,4,24.0,Germany,Petrol,CVT,2022,No,Yes,Compact city-friendly hatchback
+C0404,Kia,E 450,Hatchback,1300,118.7,137.6,163,13.5,5,18.95,India,Petrol,CVT,2016,Yes,Yes,Compact city-friendly hatchback
+C0405,Jaguar,Alpha 450,Electric,0,118.9,207.5,183,,4,63.1,Germany,Electric,Automatic,2005,No,No,Electric car with zero emissions
+C0406,Mercedes,S 300,Electric,0,398.1,400.1,192,,6,100.75,Germany,Electric,Manual,2006,Yes,No,Electric car with zero emissions
+C0407,Maruti,Z 100,SUV,0,222.7,227.7,127,,7,36.0,India,Electric,CVT,2012,No,Yes,Spacious SUV for all terrains
+C0408,Tata,GT 650,SUV,3000,343.6,395.7,210,9.4,2,72.48,India,Petrol,CVT,2016,No,Yes,Spacious SUV for all terrains
+C0409,Nissan,Turbo 650,Sedan,1600,107.2,132.3,168,19.0,6,28.58,USA,Petrol,CVT,2019,No,Yes,Comfortable family sedan
+C0410,Nissan,Alpha 400,Hatchback,1000,74.3,99.1,195,20.3,2,18.03,USA,Diesel,Automatic,2005,No,No,Compact city-friendly hatchback
+C0411,MG,Neo 250,SUV,1800,132.0,209.9,197,14.4,7,32.45,India,Diesel,Automatic,2014,No,Yes,Spacious SUV for all terrains
+C0412,Maruti,X 883,MUV,2500,343.4,370.2,200,8.9,4,79.85,India,Petrol,Automatic,2020,Yes,Yes,Multi-purpose vehicle for family
+C0413,BMW,GT 550,SUV,2500,311.8,324.6,232,11.1,2,103.58,Sweden,Hybrid,CVT,2016,Yes,No,Spacious SUV for all terrains
+C0414,Hyundai,Z 700,Hatchback,1200,80.7,91.6,163,19.2,7,9.87,India,Petrol,Automatic,2025,Yes,Yes,Compact city-friendly hatchback
+C0415,MG,GT 100,MUV,2000,152.6,212.3,178,12.2,7,74.01,India,Diesel,Manual,2023,No,Yes,Multi-purpose vehicle for family
+C0416,Kia,Turbo 450,SUV,2200,261.8,385.8,180,8.7,7,44.26,India,Petrol,Manual,2024,Yes,Yes,Spacious SUV for all terrains
+C0417,Tata,Alpha 862,Hatchback,1000,84.4,99.3,163,16.4,7,17.12,India,Petrol,CVT,2015,Yes,Yes,Compact city-friendly hatchback
+C0418,Mahindra,S 100,Sedan,0,125.6,268.0,136,,2,14.0,India,Electric,Manual,2018,Yes,Yes,Comfortable family sedan
+C0419,Volkswagen,Z 550,MUV,1500,91.6,146.4,215,12.5,2,55.7,USA,Petrol,Automatic,2008,Yes,No,Multi-purpose vehicle for family
+C0420,Honda (India),S 550,Hatchback,1000,74.4,112.4,157,24.5,7,11.82,India,Petrol,CVT,2012,Yes,Yes,Compact city-friendly hatchback
+C0421,Maruti,Neo 600,SUV,2000,130.3,205.2,160,17.8,6,42.79,India,Diesel,CVT,2016,Yes,Yes,Spacious SUV for all terrains
+C0422,Mahindra,E 650,Hatchback,1400,111.2,140.6,166,12.9,7,11.18,India,Petrol,Manual,2009,No,Yes,Compact city-friendly hatchback
+C0423,Mercedes,Turbo 171,SUV,2000,149.6,183.1,218,14.8,7,122.61,Germany,Petrol,Manual,2018,No,No,Spacious SUV for all terrains
+C0424,Volkswagen,S 650,Electric,0,84.1,402.2,133,,2,99.37,USA,Electric,CVT,2008,Yes,Yes,Electric car with zero emissions
+C0425,MG,Turbo 350,Hatchback,1300,100.0,153.8,165,13.0,7,18.14,India,Hybrid,Automatic,2023,No,Yes,Compact city-friendly hatchback
+C0426,Volkswagen,Neo 600,Convertible,4000,377.9,329.5,258,6.6,2,126.06,USA,Hybrid,Manual,2008,Yes,No,Convertible for open-air drive
+C0427,Maruti,Neo 250,Electric,0,297.3,245.8,199,,2,87.0,India,Electric,Manual,2021,No,Yes,Electric car with zero emissions
+C0428,Mercedes,Neo 450,Convertible,3000,281.4,365.7,269,11.8,6,161.65,Germany,Petrol,Manual,2019,No,No,Convertible for open-air drive
+C0429,Hyundai,Neo 500,Hatchback,1300,134.2,126.6,167,13.1,7,16.65,India,Diesel,Manual,2020,No,Yes,Compact city-friendly hatchback
+C0430,MG,E 350,SUV,2200,288.7,288.0,246,10.5,7,58.04,India,Petrol,Manual,2006,Yes,Yes,Spacious SUV for all terrains
+C0431,Maruti,S 650,MUV,3000,214.6,282.1,185,10.9,4,39.87,India,Diesel,Manual,2025,No,Yes,Multi-purpose vehicle for family
+C0432,Tata,Alpha 812,Electric,0,134.3,361.5,124,,6,66.0,India,Electric,CVT,2023,No,Yes,Electric car with zero emissions
+C0433,Volkswagen,E 306,SUV,2200,285.6,278.0,172,13.7,7,57.64,USA,Hybrid,Automatic,2015,Yes,No,Spacious SUV for all terrains
+C0434,Volkswagen,Alpha 150,Coupe,1400,132.0,141.4,236,14.1,7,164.47,USA,Hybrid,Manual,2007,Yes,No,Sporty coupe with style
+C0435,Porsche,GT 550,SUV,1500,122.6,132.1,198,15.5,7,79.59,Sweden,Petrol,CVT,2019,Yes,No,Spacious SUV for all terrains
+C0436,Volkswagen,Z 200,Sedan,1800,136.1,198.3,191,14.9,7,64.64,USA,Hybrid,Manual,2011,No,No,Comfortable family sedan
+C0437,Mercedes,X 250,MUV,1500,121.7,153.8,174,18.6,6,85.43,Germany,Petrol,Manual,2012,Yes,Yes,Multi-purpose vehicle for family
+C0438,Mercedes,Neo 700,SUV,2200,263.3,383.0,185,9.1,7,51.38,Germany,Diesel,Automatic,2010,Yes,No,Spacious SUV for all terrains
+C0439,Maruti,Z 150,Hatchback,0,180.4,289.4,128,,2,8.0,India,Electric,Automatic,2017,Yes,Yes,Compact city-friendly hatchback
+C0440,Porsche,E 350,Electric,0,345.3,484.9,187,,4,71.8,Sweden,Electric,Manual,2024,Yes,No,Electric car with zero emissions
+C0441,Ford,S 658,MUV,3000,232.7,239.2,167,14.8,6,98.59,Japan,Diesel,Manual,2022,No,No,Multi-purpose vehicle for family
+C0442,Nissan,Turbo 300,SUV,2000,172.8,216.2,206,13.8,2,137.08,USA,Petrol,CVT,2006,Yes,Yes,Spacious SUV for all terrains
+C0443,Toyota,Z 300,Electric,0,251.2,270.9,176,,5,63.33,Sweden,Electric,Automatic,2014,Yes,No,Electric car with zero emissions
+C0444,Honda (India),Turbo 350,Electric,0,220.4,295.2,172,,2,12.0,India,Electric,Automatic,2020,No,Yes,Electric car with zero emissions
+C0445,Nissan,X 600,Electric,0,343.8,409.5,184,,7,25.48,USA,Electric,CVT,2015,No,No,Electric car with zero emissions
+C0446,MG,Turbo 700,Coupe,1600,90.2,128.0,239,14.5,7,39.62,India,Diesel,Manual,2025,Yes,Yes,Sporty coupe with style
+C0447,Audi,Turbo 550,SUV,0,122.7,252.0,195,,2,117.63,Germany,Electric,Manual,2018,No,Yes,Spacious SUV for all terrains
+C0448,Toyota (India),Turbo 550,Hatchback,1500,122.4,145.1,198,12.7,4,13.38,India,Petrol,CVT,2006,No,Yes,Compact city-friendly hatchback
+C0449,BMW,Neo 400,Hatchback,1200,98.4,93.5,185,20.3,4,25.21,Sweden,Hybrid,Manual,2011,No,Yes,Compact city-friendly hatchback
+C0450,Kia,Z 550,SUV,1800,179.7,177.0,246,11.5,2,44.48,India,Petrol,Manual,2014,No,Yes,Spacious SUV for all terrains
+C0451,Volvo,Alpha 150,Electric,0,299.0,337.4,121,,6,87.48,USA,Electric,Automatic,2011,No,No,Electric car with zero emissions
+C0452,Mahindra,Turbo 479,SUV,1800,148.3,181.3,237,17.5,7,20.68,India,Petrol,CVT,2017,No,Yes,Spacious SUV for all terrains
+C0453,Kia,E 643,Electric,0,265.8,278.1,184,,6,71.0,India,Electric,Automatic,2009,Yes,Yes,Electric car with zero emissions
+C0454,Nissan,GT 854,Hatchback,1000,99.4,105.0,193,17.8,7,21.04,USA,Petrol,Automatic,2013,No,No,Compact city-friendly hatchback
+C0455,Volkswagen,Neo 450,MUV,3000,208.0,246.8,169,9.3,2,88.84,USA,Petrol,Automatic,2020,Yes,No,Multi-purpose vehicle for family
+C0456,Volkswagen,GT 400,Hatchback,1200,73.7,92.8,195,17.8,7,23.2,USA,Diesel,CVT,2011,Yes,No,Compact city-friendly hatchback
+C0457,Tata,X 571,Sedan,1200,96.6,90.8,183,24.8,2,17.18,India,Petrol,CVT,2015,Yes,Yes,Comfortable family sedan
+C0458,Volkswagen,Alpha 156,SUV,2500,298.7,279.3,165,12.6,7,126.92,USA,Hybrid,CVT,2009,Yes,No,Spacious SUV for all terrains
+C0459,Tata,S 602,SUV,1500,109.9,127.1,211,12.7,5,42.96,India,Diesel,Automatic,2025,Yes,Yes,Spacious SUV for all terrains
+C0460,Nissan,Turbo 700,MUV,2000,141.5,165.8,187,14.1,7,89.5,USA,Hybrid,Automatic,2024,No,Yes,Multi-purpose vehicle for family
+C0461,Toyota,Turbo 150,Coupe,3000,213.9,312.4,259,12.7,7,230.22,Sweden,Petrol,Automatic,2025,Yes,Yes,Sporty coupe with style
+C0462,Volkswagen,Alpha 360,Sedan,1600,132.1,140.9,158,16.5,7,33.96,USA,Hybrid,Manual,2018,No,Yes,Comfortable family sedan
+C0463,Tata,Neo 550,MUV,3000,226.9,252.8,190,8.3,5,68.04,India,Petrol,Automatic,2023,No,Yes,Multi-purpose vehicle for family
+C0464,BMW,Neo 650,Sedan,1500,100.6,123.1,178,14.1,2,22.0,Sweden,Hybrid,Automatic,2005,Yes,No,Comfortable family sedan
+C0465,Ford,S 100,Electric,2993,245.4,366.4,277,10.5,2,252.3,Japan,Diesel,Automatic,2009,Yes,Yes,Electric car with zero emissions
+C0466,Honda (India),Neo 200,Electric,0,287.6,394.9,175,,4,88.0,India,Electric,CVT,2007,No,Yes,Electric car with zero emissions
+C0467,Volkswagen,Turbo 400,SUV,1800,164.3,186.7,222,13.8,6,138.93,USA,Petrol,CVT,2006,No,Yes,Spacious SUV for all terrains
+C0468,Volkswagen,E 165,MUV,2500,205.6,291.9,205,12.1,4,153.21,USA,Diesel,Automatic,2006,Yes,No,Multi-purpose vehicle for family
+C0469,BMW,Neo 250,Electric,0,231.5,348.4,164,,4,134.97,Sweden,Electric,Manual,2014,Yes,No,Electric car with zero emissions
+C0470,Porsche,GT 312,Sedan,1600,136.1,154.1,185,17.3,6,40.49,Sweden,Hybrid,Automatic,2025,No,No,Comfortable family sedan
+C0471,Mercedes,E 300,Convertible,4000,282.3,339.9,277,9.0,4,260.19,Germany,Petrol,Automatic,2011,Yes,No,Convertible for open-air drive
+C0472,Toyota,S 650,Convertible,1400,130.3,133.5,214,16.9,5,93.15,Sweden,Petrol,Automatic,2006,No,No,Convertible for open-air drive
+C0473,Hyundai,S 200,Electric,0,226.3,452.5,134,,7,21.0,India,Electric,CVT,2008,Yes,Yes,Electric car with zero emissions
+C0474,Mahindra,Z 450,Electric,2196,306.2,357.2,247,13.1,5,27.1,India,Petrol,Automatic,2009,Yes,Yes,Electric car with zero emissions
+C0475,Nissan,GT 700,MUV,3000,251.2,310.9,150,9.9,4,144.06,USA,Petrol,CVT,2009,No,No,Multi-purpose vehicle for family
+C0476,Nissan,Turbo 268,SUV,2200,342.8,312.9,247,10.5,7,43.75,USA,Petrol,CVT,2007,Yes,Yes,Spacious SUV for all terrains
+C0477,Nissan,E 350,Hatchback,1200,97.1,91.7,180,24.8,6,35.0,USA,Diesel,Automatic,2022,No,No,Compact city-friendly hatchback
+C0478,Maruti,Z 300,MUV,2000,162.0,186.8,166,17.1,6,70.61,India,Hybrid,CVT,2016,No,Yes,Multi-purpose vehicle for family
+C0479,Tata,Alpha 892,Hatchback,1200,85.6,106.2,153,15.9,4,14.4,India,Petrol,Automatic,2005,Yes,Yes,Compact city-friendly hatchback
+C0480,Mercedes,Z 700,MUV,1500,126.6,153.7,173,17.0,6,59.19,Germany,Hybrid,Manual,2014,Yes,No,Multi-purpose vehicle for family
+C0481,Jaguar,E 200,MUV,2500,242.7,361.3,213,12.7,5,117.47,Germany,Petrol,Manual,2021,Yes,No,Multi-purpose vehicle for family
+C0482,Kia,Turbo 550,MUV,0,106.2,218.7,136,,6,45.0,India,Electric,Manual,2007,No,Yes,Multi-purpose vehicle for family
+C0483,Jaguar,Neo 821,SUV,2000,155.1,198.2,216,15.5,4,167.88,Germany,Petrol,Manual,2021,Yes,No,Spacious SUV for all terrains
+C0484,Porsche,Alpha 100,Electric,0,148.0,342.0,140,,7,127.75,Sweden,Electric,Manual,2018,Yes,Yes,Electric car with zero emissions
+C0485,Porsche,Neo 100,Hatchback,1300,105.2,139.4,190,13.1,5,27.56,Sweden,Petrol,Automatic,2011,Yes,No,Compact city-friendly hatchback
+C0486,Mahindra,Neo 700,SUV,1500,110.9,142.9,232,15.6,7,67.38,India,Petrol,Automatic,2009,Yes,Yes,Spacious SUV for all terrains
+C0487,Volvo,X 745,Convertible,3000,213.4,332.5,279,10.9,6,153.4,USA,Petrol,Manual,2013,Yes,No,Convertible for open-air drive
+C0488,Mercedes,GT 100,SUV,2500,212.8,391.9,229,12.0,7,59.36,Germany,Petrol,Automatic,2005,Yes,No,Spacious SUV for all terrains
+C0489,BMW,E 400,MUV,3000,212.7,316.0,181,10.8,6,58.81,Sweden,Petrol,Automatic,2010,No,Yes,Multi-purpose vehicle for family
+C0490,BMW,X 499,Hatchback,1500,98.4,125.8,156,18.1,2,17.06,Sweden,Hybrid,Manual,2024,No,Yes,Compact city-friendly hatchback
+C0491,Mahindra,Turbo 150,Sedan,1600,102.9,157.7,197,13.0,7,20.27,India,Petrol,CVT,2012,No,Yes,Comfortable family sedan
+C0492,BMW,Turbo 450,Hatchback,1400,93.3,121.2,180,13.9,2,20.98,Sweden,Petrol,CVT,2012,Yes,Yes,Compact city-friendly hatchback
+C0493,Tata,Neo 396,MUV,2000,142.4,219.1,171,14.3,6,61.38,India,Diesel,CVT,2006,Yes,Yes,Multi-purpose vehicle for family
+C0494,MG,X 200,Hatchback,1400,103.7,130.0,183,15.0,7,19.24,India,Hybrid,Manual,2021,No,Yes,Compact city-friendly hatchback
+C0495,Jaguar,Neo 300,SUV,2200,304.8,369.5,231,15.0,5,106.76,Germany,Petrol,Automatic,2025,No,No,Spacious SUV for all terrains
+C0496,Toyota (India),X 600,Convertible,2000,147.6,196.0,202,17.3,7,61.34,India,Petrol,Manual,2020,Yes,Yes,Convertible for open-air drive
+C0497,MG,Neo 600,SUV,0,305.1,428.7,188,,2,22.0,India,Electric,CVT,2022,Yes,Yes,Spacious SUV for all terrains
+C0498,Mahindra,Neo 326,Sedan,0,344.8,307.4,142,,6,8.0,India,Electric,Manual,2016,Yes,Yes,Comfortable family sedan
+C0499,Maruti,Neo 823,MUV,2500,228.7,366.9,220,10.1,5,69.42,India,Diesel,Automatic,2006,No,Yes,Multi-purpose vehicle for family
+C0500,Honda (India),S 231,Hatchback,1400,95.5,131.1,172,16.0,7,13.97,India,Hybrid,CVT,2024,Yes,Yes,Compact city-friendly hatchback
